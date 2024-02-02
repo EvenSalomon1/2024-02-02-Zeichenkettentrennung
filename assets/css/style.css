@@ -1,0 +1,19 @@
+form,
+label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1vh;
+}
+
+main {
+  text-align: center;
+}
+
+div {
+  display: flex;
+}
+
+form p {
+  color: red;
+}
