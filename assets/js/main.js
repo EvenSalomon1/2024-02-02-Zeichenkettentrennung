@@ -7,6 +7,8 @@ function zeichenKette() {
   const ausgabeEins = document.querySelector(".ausgabeEins");
   const ausgabeZwei = document.querySelector(".ausgabeZwei");
 
+  console.log(inputRadioOne);
+
   if (
     inputZeichenkette.length > 0 &&
     inputTrennungspunkt.length > 0 &&
